@@ -1,0 +1,20 @@
+﻿  MainGame.c
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(10,5): warning C4013: 'GameLogic_initialize' sin definir; se supone que extern devuelve como resultado int
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(11,30): warning C4047: 'función': 'WindowManager *' es distinto en los niveles de direccionamiento indirecto de 'WindowManager **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(11,30): warning C4024: 'WindowManager_initialize': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(12,26): warning C4047: 'función': 'GameState *' es distinto en los niveles de direccionamiento indirecto de 'GameState **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(12,26): warning C4024: 'GameState_initialize': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(18,9): warning C4013: 'GameLogic_processInput' sin definir; se supone que extern devuelve como resultado int
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(21,26): warning C4047: 'función': 'GameLogic *' es distinto en los niveles de direccionamiento indirecto de 'GameLogic **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(21,26): warning C4024: 'GameLogic_update': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(21,9): error C2198: 'GameLogic_update': no hay suficientes argumentos para la llamada
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(24,30): warning C4047: 'función': 'WindowManager *' es distinto en los niveles de direccionamiento indirecto de 'WindowManager **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(24,30): warning C4024: 'WindowManager_render': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(24,47): warning C4047: 'función': 'GameState *' es distinto en los niveles de direccionamiento indirecto de 'GameState **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(24,47): warning C4024: 'WindowManager_render': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(33,23): warning C4047: 'función': 'GameLogic *' es distinto en los niveles de direccionamiento indirecto de 'GameLogic **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(33,23): warning C4024: 'GameLogic_cleanup': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(34,27): warning C4047: 'función': 'WindowManager *' es distinto en los niveles de direccionamiento indirecto de 'WindowManager **'
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(34,27): warning C4024: 'WindowManager_cleanup': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(39,12): warning C4026: función declarada con lista de parámetros formales
+C:\Users\acer\Desktop\Siscom\U3\sc-2320-evalunidad3-ripstomb\PongPoo\MainGame.c(40,12): error C2198: 'MainGame_main': no hay suficientes argumentos para la llamada
